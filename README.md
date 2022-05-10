@@ -6,7 +6,7 @@
 
 :key: Estou disposto a contribuir com todo o meu conhecimento adquirido, ajudar em projetos e criação de novas ideias.
 
-:iphone: Whatsapp e Telegram - +55119 47691430
+:iphone: Whatsapp e Telegram - +55119 58651021
 
 :mailbox: E-mail - abelardoandradesilva@icloud.com
 
