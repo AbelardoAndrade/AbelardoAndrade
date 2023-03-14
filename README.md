@@ -1,9 +1,9 @@
 #     :octocat: Abelardo Andrade :octocat:
 ##                                       Sobre mim:
 
-:octocat: Meu nome é Abelardo Andrade, sou Web Developer Jr atualmente aprendendo o conteúdo e linguagem front end. Tenho bons conhecimentos em HTML5 e CSS3, estou estudando Java Script e busco meu primeiro emprego na área de programação. Possuo bons conhecimentos em hardware e estou sempre disposto a aprender.
+:octocat: Meu nome é Abelardo Andrade, estudante de linguagem de programação. Possuo bons conhecimentos em HTML5, CSS3, Bootstrap 5, atualmente estudando Java e Java Script, busco meu primeiro emprego na área de desenvolvimento. Boa vivência na área de hardware e Redes.
 
-:key: Estou disposto a contribuir com todo o meu conhecimento adquirido, ajudar em projetos e criação de novas ideias.
+:key: Estou disposto a contribuir com todo o meu conhecimento e ajudar em projetos e criação de novas ideias.
 
 :iphone: Whatsapp e Telegram - +55119 58651021
 
@@ -11,7 +11,7 @@
 
 :link: LinkedIn - https://www.linkedin.com/in/abelardo-andrade/
 
-:link:Instagram - https://www.instagram.com/abelardoandradeoficial/
+
 
 
 
