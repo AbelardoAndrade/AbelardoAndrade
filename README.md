@@ -1,7 +1,7 @@
 #     :octocat: Abelardo Andrade :octocat:
 ##                                       Sobre mim:
 
-:octocat: Meu nome é Abelardo Andrade, estudante de linguagem de programação. Possuo bons conhecimentos em HTML5, CSS3, Bootstrap 5, atualmente estudando Java e Java Script, busco meu primeiro emprego na área de desenvolvimento. Boa vivência na área de hardware e Redes.
+:octocat: Meu nome é Abelardo Andrade, estudante de linguagem de programação. Possuo bons conhecimentos em HTML5, CSS3, Bootstrap 5, básico em Java e Java Script, Python, SQLite, Ruby e Swift busco meu primeiro emprego na área de desenvolvimento.
 
 :key: Estou disposto a contribuir com todo o meu conhecimento e ajudar em projetos e criação de novas ideias.
 
