@@ -1,25 +1,27 @@
-#     :octocat: Abelardo Andrade :octocat:
-###                              :octocat: Sobre mim:
+# :octocat: Abelardo Andrade
 
-:octocat: Meu nome é Abelardo Andrade, desenvolvedor full-stack com enfase em frontend. 
+## Sobre mim
+Olá! Eu sou **Abelardo Andrade**, um desenvolvedor full-stack com ênfase em frontend.
 
-:octocat: Possuo bons conhecimentos em HTML5, CSS3, Bootstrap 5, Java Script, Python, SQLite e MySQl.
+## 🛠️ Tecnologias e Ferramentas
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+- Python
+- SQLite
+- MySQL
 
-####                             :octocat: Algumas observações:
+## Projetos
+🔑 Possuo alguns projetos web app em Flask. Veja um dos meus projetos aqui: [Meu Projeto Flask](https://abelardoandradesilva.pythonanywhere.com/login)
 
-:key: Possuo alguns projetos web app em Flask (Um dos meus projetos - URL - https://abelardoandradesilva.pythonanywhere.com/login).
+## Contribuições
+Estou disposto a contribuir com todo o meu conhecimento e ajudar em projetos e criação de novas ideias.
 
-:key: Estou disposto a contribuir com todo o meu conhecimento e ajudar em projetos e criação de novas ideias.
+## Contato
+📱 **Whatsapp e Telegram**: +55 11 9 93243465  
+📫 **E-mail**: [abelardoandradesilva@icloud.com](mailto:abelardoandradesilva@icloud.com)  
+🔗 **LinkedIn**: [Abelardo Andrade](https://www.linkedin.com/in/abelardo-andrade/)
 
-:iphone: Whatsapp e Telegram - +55 11 9 93243465
-
-:mailbox: E-mail - abelardoandradesilva@icloud.com
-
-:link: LinkedIn - https://www.linkedin.com/in/abelardo-andrade/
-
-
-
-
-
-
-
+## GitHub Stats
+![Abelardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
