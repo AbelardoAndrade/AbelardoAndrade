@@ -1,4 +1,4 @@
-![Banner]([https://path-to-your-banner-image.com/banner.png](https://www.freepik.com/free-photo/ai-site-helping-with-software-production_41673046.htm#fromView=search&page=1&position=40&uuid=2c418c42-9246-4393-bda0-660070bb788f))
+![Banner]([[https://path-to-your-banner-image.com/banner.png](https://www.freepik.com/free-photo/ai-site-helping-with-software-production_41673046.htm#fromView=search&page=1&position=40&uuid=2c418c42-9246-4393-bda0-660070bb788f)](https://img.freepik.com/free-photo/ai-site-helping-with-software-production_1268-21620.jpg?t=st=1726464774~exp=1726468374~hmac=a6763c8ddd27ab777fbb353cf255b9ef9e5a8f80ab156777aef1b4aca33b70d8&w=2000))
 
 # :octocat: Abelardo Andrade
 
@@ -23,6 +23,4 @@ Olá! Eu sou **Abelardo Andrade**, um desenvolvedor full-stack com ênfase em fr
 - **E-mail**: [abelardoandradesilva@icloud.com](mailto:abelardoandradesilva@icloud.com)
 - **LinkedIn**: [Abelardo Andrade](https://www.linkedin.com/in/abelardo-andrade/)
 
-## GitHub Stats
-![Abelardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&count_private=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario-github&theme=radical)
