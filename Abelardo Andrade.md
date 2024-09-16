@@ -1,28 +1,27 @@
-#                :sunglasses:Abelardo Andrade :sunglasses:
+# :octocat: Abelardo Andrade
 
-##                                       Sobre mim:
+## Sobre mim
+Olá! Eu sou **Abelardo Andrade**, um desenvolvedor full-stack com ênfase em frontend.
 
-:lock: Meu nome é Abelardo Andrade, sou estudante Web Developer Jr atualmente aprendendo o conteúdo e linguagem front end. Tenho bons conhecimentos em HTML5 e CSS3, estou estudando Java Script e busco meu primeiro emprego na área de programação. Possuo bons conhecimentos em hardware e estou sempre disposto a aprender.
+## 🛠️ Tecnologias e Ferramentas
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+- Python
+- SQLite
+- MySQL
 
-:key: Estou disposto a contribuir com todo o meu conhecimento adquirido, ajudar em projetos e criação de novas ideias.
+## Projetos
+🔑 Possuo alguns projetos web app em Flask. Veja um dos meus projetos aqui: [Meu Projeto Flask](https://abelardoandradesilva.pythonanywhere.com/login)
 
-:iphone: Whatsapp e Telegram - +55119 47691430
+## Contribuições
+Estou disposto a contribuir com todo o meu conhecimento e ajudar em projetos e criação de novas ideias.
 
-:mailbox: E-mail - abelardoandradesilva@icloud.com
+## Contato
+📱 **Whatsapp e Telegram**: +55 11 9 93243465  
+📫 **E-mail**: [abelardoandradesilva@icloud.com](mailto:abelardoandradesilva@icloud.com)  
+🔗 **LinkedIn**: [Abelardo Andrade](https://www.linkedin.com/in/abelardo-andrade/)
 
-:link: LinkedIn - https://www.linkedin.com/in/abelardo-andrade/
-
-:link:Instagram - https://www.instagram.com/abelardoandradeoficial/
-
-
-
-
-
-
-
-
-
-
-
-
-
+## GitHub Stats
+![Abelardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
