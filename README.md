@@ -1,4 +1,4 @@
-![Banner]([https://cdn.pixabay.com/photo/2018/09/27/21/41/artificial-intelligence-3706562_960_720.jpg](https://cdn.pixabay.com/photo/2018/09/27/09/22/artificial-intelligence-3706562_1280.jpg))
+![Banner]([[https://cdn.pixabay.com/photo/2018/09/27/21/41/artificial-intelligence-3706562_960_720.jpg](https://cdn.pixabay.com/photo/2018/09/27/09/22/artificial-intelligence-3706562_1280.jpg)](https://pixabay.com/pt/illustrations/intelig%C3%AAncia-artificial-rede-3706562/))
 
 # :octocat: Abelardo Andrade
 
