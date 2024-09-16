@@ -1,4 +1,4 @@
-![Banner]([[[https://path-to-your-banner-image.com/banner.png](https://www.freepik.com/free-photo/ai-site-helping-with-software-production_41673046.htm#fromView=search&page=1&position=40&uuid=2c418c42-9246-4393-bda0-660070bb788f)](https://img.freepik.com/free-photo/ai-site-helping-with-software-production_1268-21620.jpg?t=st=1726464774~exp=1726468374~hmac=a6763c8ddd27ab777fbb353cf255b9ef9e5a8f80ab156777aef1b4aca33b70d8&w=2000)](https://pt.vecteezy.com/fotos-gratis/programming))
+![Banner](https://www.freepik.com/free-photo/ai-site-helping-with-software-production_41673046.htm#fromView=search&page=1&position=40&uuid=2c418c42-9246-4393-bda0-660070bb788f)
 
 # :octocat: Abelardo Andrade
 
