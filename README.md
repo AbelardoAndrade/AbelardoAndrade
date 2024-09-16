@@ -22,4 +22,5 @@ Olá! Eu sou **Abelardo Andrade**, um desenvolvedor full-stack com ênfase em fr
 - **E-mail**: [abelardoandradesilva@icloud.com](mailto:abelardoandradesilva@icloud.com)
 - **LinkedIn**: [Abelardo Andrade](https://www.linkedin.com/in/abelardo-andrade/)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario-github&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abelardoandrade&theme=radical)
+
