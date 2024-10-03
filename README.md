@@ -15,7 +15,7 @@ Olá! Eu sou **Abelardo Andrade**, um desenvolvedor full-stack com ênfase em fr
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=ffffff)
 
 ## 📁 Principais Projetos
-- [Meu Porftifólio]([https://abelardoandradesilva.pythonanywhere.com/logi](https://my-jobs-rust.vercel.app/)) - Um web app desenvolvido no vercel.
+- [Meu Porftifólio]([https://my-jobs-rust.vercel.app/]) - Um web app desenvolvido no vercel.
 
 ## 📱 Contato
 - **Whatsapp e Telegram**: +55 11 9 93243465
